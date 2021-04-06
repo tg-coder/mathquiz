@@ -1,0 +1,43 @@
+body
+{
+	background: paleturquoise;
+}
+#player1
+{
+    background-color: lightgoldenrodyellow;
+    font-size: 45px;
+    font-family:sans-serif;
+    color:orange;
+    text-align:center;
+    height: 150px;
+    width: 480px;
+}
+#top
+{
+    font-size: 96px;
+    font-style: unset;
+    font-variant: small-caps;
+    color:cornflowerblue;
+    text-align: center;
+    
+}
+#player2
+{
+    background-color:lightcyan;
+    font-size: 45px;
+    font-family:sans-serif;
+    color:grey;
+    text-align: center;
+    height: 150px;
+    width: 480px;
+}
+#Loginclickable
+{
+    border-color: orchid;
+    background-color: plum;
+    border-width: 1px;
+    height: 75px;
+    width: 102px;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
